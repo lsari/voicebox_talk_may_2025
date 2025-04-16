@@ -1,11 +1,12 @@
 # Voicebox and Its Applications
 
-Speaker: Leda Sari
-Date: May 8, 2025
-Venue: Conversational AI Reading Group at Mila
-Host: Pooneh Mousavi
-
 This is the resources page for the papers that I am going to talk about on May 8, 2025 at Conversational AI Reading Group at Mila.
+
+- Speaker: Leda Sari
+- Date: May 8, 2025
+- Venue: Conversational AI Reading Group at Mila
+- Host: Pooneh Mousavi
+
 
 # Papers
 1. Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale, Le et al.,  
