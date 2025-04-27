@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 
 title: The Voicebox Model and Its Applications
+description: This is the resources page for the papers that I am going to talk about on May 8, 2025 at Conversational AI Reading Group at Mila.
 
