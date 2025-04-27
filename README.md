@@ -10,20 +10,15 @@ Voicebox is a non-autoregressive generative speech model based on flow-matching 
 
 
 # Papers
-1. Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale, Le et al.,  
-[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2d8911db9ecedf866015091b28946e15-Paper-Conference.pdf)
+1. Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale, Le et al., [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2d8911db9ecedf866015091b28946e15-Paper-Conference.pdf)
 
-2. Audiobox: Unified Audio Generation with Natural Language Prompts, Vyas et al., 
-[paper on Arxiv](https://arxiv.org/pdf/2312.15821)
+2. Audiobox: Unified Audio Generation with Natural Language Prompts, Vyas et al., [paper on Arxiv](https://arxiv.org/pdf/2312.15821)
 
-3. Towards Selection of Text-to-speech Data to Augment ASR Training, Liu et al., 
-[paper on Arxiv](https://arxiv.org/pdf/2306.00998)
+3. Towards Selection of Text-to-speech Data to Augment ASR Training, Liu et al., [paper on Arxiv](https://arxiv.org/pdf/2306.00998)
 
-4. Using Voicebox-based Synthetic Speech for ASR Adaptation, Dhamyal et al.,
-[paper on ISCA archive](https://www.isca-archive.org/syndata4genai_2024/dhamyal24_syndata4genai.pdf)
+4. Using Voicebox-based Synthetic Speech for ASR Adaptation, Dhamyal et al., [paper on ISCA archive](https://www.isca-archive.org/syndata4genai_2024/dhamyal24_syndata4genai.pdf)
 
-5. Improving Spoken Semantic Parsing using Synthetic Data from Large Generative Models, Sharma et al.,
-[paper on ISCA archive](https://www.isca-archive.org/syndata4genai_2024/sharma24_syndata4genai.pdf)
+5. Improving Spoken Semantic Parsing using Synthetic Data from Large Generative Models, Sharma et al., [paper on ISCA archive](https://www.isca-archive.org/syndata4genai_2024/sharma24_syndata4genai.pdf)
 
 # Other Links
 [Audiobox demo page](https://audiobox.metademolab.com/)
