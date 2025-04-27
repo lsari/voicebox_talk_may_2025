@@ -1,10 +1,8 @@
-# The Voicebox Model and Its Applications
-
-This is the resources page for the papers that I am going to talk about on May 8, 2025 at Conversational AI Reading Group at Mila.
+# Logistics
 
 - Speaker: Leda Sari
 - Date: May 8, 2025
-- Venue: Conversational AI Reading Group at Mila
+- Venue: Conversational AI Reading Group at Mila ()
 - Host: Pooneh Mousavi
 
 # Abstract of the talk
