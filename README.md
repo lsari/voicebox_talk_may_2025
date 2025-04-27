@@ -2,10 +2,10 @@
 
 - Speaker: Leda Sari
 - Date: May 8, 2025
-- Venue: Conversational AI Reading Group at Mila ()
+- Venue: Conversational AI Reading Group at Mila (https://poonehmousavi.github.io/rg.html)
 - Host: Pooneh Mousavi
 
-# Abstract of the talk
+# Abstract
 Voicebox is a non-autoregressive generative speech model based on flow-matching and is trained to perform speech infilling given audio context and the corresponding text. The Voicebox model can be used for zero-shot text-to-speech synthesis, noise removal, content editing, style conversion, and diverse sample generation. In this talk, we will first review the Voicebox model. We will then focus on the synthetic speech generation capability of the model and present several use cases of these synthetic signals in various applications including automatic speech recognition and spoken language understanding. Through a few early studies on using Voicebox generated speech signals, we will discuss the cost saving benefits of the approach in terms of speech data collection and potential shortcomings of using synthetic speech in these applications. 
 
 
