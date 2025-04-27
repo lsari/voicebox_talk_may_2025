@@ -2,7 +2,7 @@
 
 - Speaker: Leda Sari
 - Date: May 8, 2025
-- Venue: Conversational AI Reading Group at Mila [Meeting details](https://poonehmousavi.github.io/rg.html)
+- Venue: Conversational AI Reading Group at Mila ([Meeting details](https://poonehmousavi.github.io/rg.html))
 - Host: Pooneh Mousavi
 
 # Abstract
