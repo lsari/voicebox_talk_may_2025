@@ -11,7 +11,7 @@ Voicebox is a non-autoregressive generative speech model based on flow-matching 
 
 # Papers
 1. Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale, Le et al.,  
-https://proceedings.neurips.cc/paper_files/paper/2023/file/2d8911db9ecedf866015091b28946e15-Paper-Conference.pdf
+[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2d8911db9ecedf866015091b28946e15-Paper-Conference.pdf)
 
 2. Audiobox: Unified Audio Generation with Natural Language Prompts, Vyas et al., 
 [paper on Arxiv](https://arxiv.org/pdf/2312.15821)
