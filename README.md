@@ -20,6 +20,9 @@ Voicebox is a non-autoregressive generative speech model based on flow-matching 
 
 5. Improving Spoken Semantic Parsing using Synthetic Data from Large Generative Models, Sharma et al., [paper on ISCA archive](https://www.isca-archive.org/syndata4genai_2024/sharma24_syndata4genai.pdf)
 
+6. Flow Matching for Generative Modeling, Lipman et al., [paper on Arxiv](https://arxiv.org/pdf/2210.02747)
+7. Joint Audio/Text Training for Transformer Rescorer of Streaming Speech Recognition, Kim et al., [paper on Arxiv](https://arxiv.org/pdf/2211.00174)
+
 # Other Links
 1. [Voicebox demo page](https://voicebox.metademolab.com/)
 2. [Audiobox demo page](https://audiobox.metademolab.com/)
