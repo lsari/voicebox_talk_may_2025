@@ -21,6 +21,13 @@ Voicebox is a non-autoregressive generative speech model based on flow-matching 
 5. Improving Spoken Semantic Parsing using Synthetic Data from Large Generative Models, Sharma et al., [paper on ISCA archive](https://www.isca-archive.org/syndata4genai_2024/sharma24_syndata4genai.pdf)
 
 # Other Links
+[Voicebox demo page](https://voicebox.metademolab.com/)
 [Audiobox demo page](https://audiobox.metademolab.com/)
+
+# Professional Activities
+1. [YFRSW 2025](https://sites.google.com/view/yfrsw-2025/) - Sponsorship opportunities are available for 2025! We are also looking for current female PhD students who can volunteer for talking in our panel discussion. 
+2. [LinkedIn page for YFRSW](https://www.linkedin.com/company/young-female-researchers-in-speech-workshop-yfrsw/)
+3. [IEEE MLSP 2025](https://2025.ieeemlsp.org/en/default.asp) - Stay tuned for the registration!
+4. [IEEE ASRU 2025](https://2025.ieeeasru.org/) - Call for demos will be available soon! 
 
 
